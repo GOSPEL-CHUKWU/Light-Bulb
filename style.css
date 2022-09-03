@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+html {
+  background-color: white;
+}
+.img-size {
+  background-color: white;
+  overflow: hidden;
+  max-width: 50%;
+  margin: 50px 0 0 25%;
+}
+img {
+  width: 100%;
+}
+.hidden {
+  display: none;
+}
+.switch-control {
+  position: absolute;
+}
